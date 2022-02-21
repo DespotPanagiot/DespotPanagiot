@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DespotPanagiot
 - 👀 I’m interested in Gaming and Programming 
 - 🌱 I’m currently trying to learn python but I am still a newbie
-- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me : giannispan101105@gmail.com
 
 <!---
