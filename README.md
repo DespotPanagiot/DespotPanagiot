@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DespotPanagiot
 - 👀 I’m interested in Gaming and Programming 
-- 🌱 I’m currently trying to learn python but I am still a newbie
+- 🌱 I’m currently an undergraduate student at IHU, department of Information and Electronics Engineer.
 - 📫 How to reach me : giannispan101105@gmail.com
 
 <!---
